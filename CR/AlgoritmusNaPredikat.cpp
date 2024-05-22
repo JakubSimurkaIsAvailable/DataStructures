@@ -1,0 +1,1 @@
+#include "AlgoritmusNaPredikat.h"
